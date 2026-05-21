@@ -1,0 +1,1067 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/437056.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 2 USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/437059.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN NEW USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/437062.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN DEPORTES USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/437065.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN + MX
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/268518.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192172.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN MX SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192188.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN MX HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192187.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 2 MX SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192190.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 2 SD MX
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192174.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192175.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN MX 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192189.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 3 MX SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192192.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 3 MX HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192191.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 3 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192176.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 4 MX
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/268519.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 5 MX SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/294391.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 5 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192180.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 5 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192179.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 6 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192182.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 6 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192181.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 7 HD ( c )
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192183.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN 7 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192184.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM", ESPN PREMIUM
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/192186.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="▶️ EVENTOS MLS", MLS 14 | PORTLAND TIMBERS VS LA GALAXY MAR 22 4:45 PM
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/448997.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZs5hsn6/file_00000000c9d46243b881ab0d81ebea9d.png" group-title="▶️ TELENOVELA", 01 | RCN NOVELAS | HQ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/447119.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZs5hsn6/file_00000000c9d46243b881ab0d81ebea9d.png" group-title="▶️ TELENOVELA", TNT NOVELAS
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/447123.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZs5hsn6/file_00000000c9d46243b881ab0d81ebea9d.png" group-title="▶️ TELENOVELA", NOV | UNIVISION TLNOVELAS
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/447125.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269792.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269793.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269794.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269795.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 5
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269796.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 6
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269797.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN 7
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269798.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅", ESPN PREMIUM AR
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/404426.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) CAMARA PRINCIPAL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401317.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) COMEDOR
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401318.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) HAB. CALMA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401319.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) HAB. TORMENTA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401320.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) BAÑOS
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401321.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.oTGZQmln19DfswumX-muxAHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF (CO) BEAUTY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401322.ts
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.dGVwR175HlpacV-I9SuKmQHaEK?pid=Api&P=0&h=180" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", Gran Hermano España
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/401323.ts
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2021/09/la-casa-de-los-famosos-telemundo.png?fit=969,507&quality=85&strip=all" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF TELEMUNDO CAM - 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/405006.ts
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2021/09/la-casa-de-los-famosos-telemundo.png?fit=969,507&quality=85&strip=all" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF TELEMUNDO CAM - 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/407433.ts
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2021/09/la-casa-de-los-famosos-telemundo.png?fit=969,507&quality=85&strip=all" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF TELEMUNDO CAM - 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/422710.ts
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2021/09/la-casa-de-los-famosos-telemundo.png?fit=969,507&quality=85&strip=all" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF TELEMUNDO CAM - 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/425273.ts
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2021/09/la-casa-de-los-famosos-telemundo.png?fit=969,507&quality=85&strip=all" group-title="▶️ LA CASA DE LOS FAMOSOS col - usa", LCDLF TELEMUNDO CAM - 3 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/425274.ts
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8lEw_fBONXw/WpQl5Ae2B5I/AAAAAAAAEL8/KiqWOz0u1TYurDiUjZ5fd-XaI0xKYMvEQCLcBGAs/w1200-h630-p-k-no-nu/Coral%2B39en%2Bvivo.jpeg" group-title="▶️ BEISBOL DOMINICANO", RD | CORAL 39
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330219.ts
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Lidom.png" group-title="▶️ BEISBOL DOMINICANO", LIDOM 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330220.ts
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.h4uaprBxRwOzIGdGNzEvkgHaE6?pid=Api&P=0&h=180" group-title="▶️ BEISBOL DOMINICANO", Tele Antillas
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330221.ts
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.u2Msim5ghZP1th7rUaDxzgAAAA?pid=Api&P=0&h=180" group-title="▶️ BEISBOL DOMINICANO", Digital 15 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330222.ts
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.apSsQCpXSw08RQl2LPndrwAAAA?pid=Api&P=0&h=180" group-title="▶️ BEISBOL DOMINICANO", LUNA TV
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330223.ts
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bPeqkNHXGGp7mlRnJnqWMAHaEK?pid=Api&P=0&h=180" group-title="▶️ BEISBOL DOMINICANO", Teleuniverso
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/330224.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXxQH6x/Screenshot-20250715-093833-com-whatsapp-Media-View-Activity.jpg" group-title="▶️ UFC PREMIUM", ESPN 5
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/143824.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXxQH6x/Screenshot-20250715-093833-com-whatsapp-Media-View-Activity.jpg" group-title="▶️ UFC PREMIUM", BOX  EVENTO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/239786.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXxQH6x/Screenshot-20250715-093833-com-whatsapp-Media-View-Activity.jpg" group-title="▶️ UFC PREMIUM", 39 | UFC EVENTO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/204503.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvXxQH6x/Screenshot-20250715-093833-com-whatsapp-Media-View-Activity.jpg" group-title="▶️ UFC PREMIUM", 39 | UFC EVENTO BOXEO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/174962.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="⚽ DEPORTES PREMIUM HD", WWE NETWORK HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199279.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES PREMIUM HD", CLARO SPORTS HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199257.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM HD", FOX SPORTS 2 ARGENTINA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199261.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="⚽ DEPORTES PREMIUM HD", TNT SPORTS ARGENTINA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199268.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="⚽ DEPORTES PREMIUM HD", UFC HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199271.ts
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png" group-title="⚽ DEPORTES PREMIUM HD", EUROSPORT 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199258.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/1280px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="⚽ DEPORTES PREMIUM HD", EUROSPORT 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267444.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgKZ_9FSrw5b5tk3oYNRd0n5fahvCLEPumw&s" group-title="⚽ DEPORTES PREMIUM SD", ARG DEP | FOX SPORTS  1 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/102466.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES PREMIUM SD", Win Sports
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/102461.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvMTLPZ/Screenshot-20250715-094252-com-android-chrome-Chrome-Tabbed-Activity.jpg" group-title="⚽ BEIN SPORTS", BEIN SPORT Ñ HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/141055.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvMTLPZ/Screenshot-20250715-094252-com-android-chrome-Chrome-Tabbed-Activity.jpg" group-title="⚽ BEIN SPORTS", beIN SPORTS 1 PREMIUM
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/141045.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvMTLPZ/Screenshot-20250715-094252-com-android-chrome-Chrome-Tabbed-Activity.jpg" group-title="⚽ BEIN SPORTS", beIN  extra
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/141047.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvMTLPZ/Screenshot-20250715-094252-com-android-chrome-Chrome-Tabbed-Activity.jpg" group-title="⚽ BEIN SPORTS", beIN SPORTS XTRA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/141046.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YvMTLPZ/Screenshot-20250715-094252-com-android-chrome-Chrome-Tabbed-Activity.jpg" group-title="⚽ BEIN SPORTS", BEIN SPORTS USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/141052.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX DEPORTES USA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/143271.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports | AR ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199172.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 2 | AR ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199173.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 3 | AR ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199174.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports | CO ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199176.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 2 | CO ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199177.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports. PREMIUM MX
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199179.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports |  SOCCER plus❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199193.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports | PREMIUM
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199192.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports | CL ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199187.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Premium | MX ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199180.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 1 | MX ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199181.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 3 | PE ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199190.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 3 | CL ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199186.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 3 | MX ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199183.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 3 | CO ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199178.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", Fox Sports 2 | 2MB LAT ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199195.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 2 | PE ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199189.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWfv4Nj2/unnamed-5.png" group-title="⚽ FOX SPORTS", FOX Sports 2 | MX ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/199182.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports | CO ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249516.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports + | CO ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249517.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 1 | CL ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249519.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports + | CL ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249521.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 1 | EC ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249523.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 2 | EC ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249524.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports + | EC ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249525.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports  1 | PE ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249527.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 1 | PE ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249528.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 1 ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249530.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports Fight ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249534.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports 2 | AR ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249535.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV", DSports | AR ❆
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/249512.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DAZN 2 FHD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124772.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DAZN 4 FHD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124775.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | M. DAZN LA LIGA 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124781.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | DAZN MOVISTAR 4 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124792.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | DAZN MOVISTAR 3 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124797.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | DAZN LA LIGA 1 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124778.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | DAZN F1 HD (TP).
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124783.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | M. DAZN LA LIGA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124782.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM", DZN | M. DAZN LA LIGA 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124779.ts
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" group-title="⚾ MLB", MLB Network
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/306736.ts
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-" group-title="▶️ FORMULA 1", F1 | RALLY TV
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/320178.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPfn5z6/IMG-20250715-WA0351.jpg" group-title="▶️ FORMULA 1", S /IKY F1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/258494.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPfn5z6/IMG-20250715-WA0351.jpg" group-title="▶️ FORMULA 1", SS C1 F1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/258496.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPfn5z6/IMG-20250715-WA0351.jpg" group-title="▶️ FORMULA 1", DAZN MOVISTAR F1 4K
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/143084.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPfn5z6/IMG-20250715-WA0351.jpg" group-title="▶️ FORMULA 1", DAZN MOVISTAR F1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/143082.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPfn5z6/IMG-20250715-WA0351.jpg" group-title="▶️ FORMULA 1", 01 Dazn| F1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/258498.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtkWCXKJ/IMG-20250715-WA0379.jpg" group-title="▶️ LA LIGA ESPAÑA", ES: Movistar  LaLiga HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269253.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtkWCXKJ/IMG-20250715-WA0379.jpg" group-title="▶️ LA LIGA ESPAÑA", ES: Sky Sport LaLiga HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269301.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtkWCXKJ/IMG-20250715-WA0379.jpg" group-title="▶️ LA LIGA ESPAÑA", ES: Movistar  LaLiga FHD 4K
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269252.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtkWCXKJ/IMG-20250715-WA0379.jpg" group-title="▶️ LA LIGA ESPAÑA", ES: Movistar  LaLiga FHD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/269251.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tYhqdQ3/universal-channel.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL CHANNEL @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383530.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20reality.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL REALITY @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383531.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20cinema.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL CINEMA @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383532.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL CRIME
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383533.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20comedi.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL COMEDY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383534.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20premiere.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE SD | UNIVERSAL PREMIERE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383535.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLWN4HNb/studio-universal.png" group-title="▶️ UNIVERSAL + PREMIUM", STUDIO UNIVERSAL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383536.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tYhqdQ3/universal-channel.png" group-title="▶️ UNIVERSAL + PREMIUM", UNIVERSAL TV
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383537.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE HD | UNIVERSAL CRIME
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383538.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20cinema.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE HD | UNIVERSAL CINEMA @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383539.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20reality.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE HD | UNIVERSAL REALITY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383540.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tYhqdQ3/universal-channel.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383541.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20reality.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL REALITY @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383542.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20cinema.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL CINEMA @
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383543.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20comedi.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL COMEDY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383544.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20premiere.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL PREMIERE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383545.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLWN4HNb/studio-universal.png" group-title="▶️ UNIVERSAL + PREMIUM", STUDIO UNIVERSAL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383546.ts
+
+#EXTINF:-1 tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png" group-title="▶️ UNIVERSAL + PREMIUM", CINE FHD | UNIVERSAL CRIME
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/383547.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | A&E SD enc
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120053.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | A&E HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120052.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | AMC  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120091.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | AXN  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120077.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | AXN  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120076.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | CINEMAX  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120055.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | CINEMAX HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120054.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | HBO  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120066.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120067.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO 2  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120086.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO 2  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120058.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | HBO 2  SD enc
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120059.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | HBO FAMILY  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120064.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | HBO FAMILY  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120065.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO PLUS  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120062.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO PLUS  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120063.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO POP  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120068.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO POP  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120069.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | HBO SIGNATURE  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120060.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | HBO SIGNATURE  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120061.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE  | TNT  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120071.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | TNT SERIES  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120072.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE |  TNT SERIES  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120073.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | CINE LATINO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120102.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | CINECANAL  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120074.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | CINECANAL  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120075.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | DE PELICULA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120111.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | DE PELICULA CLASSIC
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120110.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | De Pelicula SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120112.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | DE PELICULA ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120109.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | FX  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120087.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120092.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120093.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN EDG  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120095.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN PLUS HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120100.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN PLUS SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120101.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN PREMIER  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120096.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | GOLDEN PREMIER  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120097.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | PARAMOUNT CHANEL HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120098.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | PARAMOUNT CHANEL SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120099.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | SONY  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120080.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | SONY  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120081.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | SPACE CHANEL  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120088.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | SPACE CHANEL  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120089.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHdTGlAtih1EIvRzTwiNh45eyEUX9mBa9wsNpEJYkVA&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | STAR CHANNEL  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120056.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHdTGlAtih1EIvRzTwiNh45eyEUX9mBa9wsNpEJYkVA&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | STAR CHANNEL  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120057.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | WARNER  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120078.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", CINE | WARNER  SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120079.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Sj-nGK4C-XQIrPvEMBh2ytKv6b6uKhG4qX_gnTanAg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", DHE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120107.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxibR0UmgBTgqR_Z7hr1fc43Q5AIw5s0g867HsLT1Fyg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", P | UNIVERSAL CINEMA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120105.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGCwQ9rydsilwxCwMcEY_kbu6ufe4abmD8Hr4-8HXYg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", P | UNIVERSAL COMEDY HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120103.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxU8ri2L12pEV7zpeJ2muvvzebbjZbwsNdEPuxQW75A&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", P | UNIVERSAL CRIMEN HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120106.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0VUlI8SHZOgX73mlW9_WfF4A3a-COnQVnDBOgnZtZg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", STUDIO UNIVERSAL.
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/137714.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPM2LrOrlbuxUzPhdTBIbB7LXHuneFNxxiG0BorvGUg&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️", TCM  HD DASH
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/225614.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DOHKmHGhsX-PUlunH27V_ofFcWOTCdmuTcZ0nsuAmQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 27 | ANIMAL PLANET ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119681.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DOHKmHGhsX-PUlunH27V_ofFcWOTCdmuTcZ0nsuAmQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 26 | ANIMAL PLANET ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119680.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DOHKmHGhsX-PUlunH27V_ofFcWOTCdmuTcZ0nsuAmQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 25 | ANIMAL PLANET
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119679.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 02 | DISCOVERY CHANNEL ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119658.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 01 | DISCOVERY CHANNEL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119657.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVq64w1qTBOwjSq4cuoqAUJa0bXiVKGoZ_1xu3fYJxQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 11 | DISCOVERY SCIENCE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119666.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVq64w1qTBOwjSq4cuoqAUJa0bXiVKGoZ_1xu3fYJxQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 12 | DISCOVERY SCIENCE ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119667.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVq64w1qTBOwjSq4cuoqAUJa0bXiVKGoZ_1xu3fYJxQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 13 | DISCOVERY SCIENCE ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119668.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 24 | DISCOVERY H&H sd
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119678.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/800px-Discovery_Home_%26_Health_logo.svg.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 21 | DISCOVERY H&H
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119676.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYf4ggp3mIfyaeV1aHKuQ2kQuSEEnt2R9qVHlt5Eeb7g&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 05 | DISCOVERY ID
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119660.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYf4ggp3mIfyaeV1aHKuQ2kQuSEEnt2R9qVHlt5Eeb7g&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 06 | DISCOVERY ID ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119661.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1100px-Discovery_Turbo_logo.svg.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 14 | DISCOVERY TURBO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119669.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1100px-Discovery_Turbo_logo.svg.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 15 | DISCOVERY TURBO ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119670.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1100px-Discovery_Turbo_logo.svg.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 16 | DISCOVERY TURBO sd
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119671.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1SoP1IFAuMUr5P_W_3_IUn1lYEG2A6eZZzV05TBljg&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 10 | DISCOVERY WORLD ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119665.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP41tguKuVLof60STbRZSO1tb2tE1S23yrQ&s" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 20 | DISCOVERY THEATER ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119675.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2gFU2ZO_NxryYx_LUtctYU5MdRf4fktBAg&usqp=CAU" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", TLC HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/127424.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEirV6VkRwVLZlwgze-uHWE0H52jCAtv9oDA&usqp=CAU" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", TLC SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/127425.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxeF2N0mN67bG2TrysopR1sN8rf_DvRRWpyA1zP1_tQ&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", NATGIO WILL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120894.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcq-s4J2Ym50degDkIOFg5_sa8BCaBG0eNM407rA4Y1A&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 37 | NATGEO MUNDO sd
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119691.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zlrIrwfsDeZMqJvjwVDcml3QjpogsEYSErjM6QVn45NpICNJjmgLur-oYH_Cih9Dn-4OCnk76Q=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 36 | NATGEO ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119690.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskatprhZa6AbJr9mgvMwyp_cxf1eOTeT_bg7uOtfwEA&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", HISTORY SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119685.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskatprhZa6AbJr9mgvMwyp_cxf1eOTeT_bg7uOtfwEA&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 30 | HISTORY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119684.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa74VS0ZIbvIrbgrRDAGBzMAJOSwGwle0QSIrBEC7Ejw&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 29 | HISTORY sd
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119683.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", | HISTORY 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119686.ts
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", LOVE NATURE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/225427.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s900-c-k-c0x00ffffff-no-rj" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 44 | HOLA TV ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119697.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTp0B_RpTaQXXEqXNl8kh35UYtCz7ZwFl4j7Ei5J2Iw&s=10" group-title="⭐️⭐️ CULTURA PREMIUM ⭐️⭐️", 19 | HGTV USA ᴴᴰ
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/119674.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlBfEdkcQNkBoamQqUg3B1uZ67SU7j_PIIw&s" group-title="▶️ INFANTILES PREMIUM", BABY TV
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120280.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="▶️ INFANTILES PREMIUM", CARTOONITO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120282.ts
+
+#EXTINF:-1 tvg-logo="https://www.lacuarta.com/resizer/v2/NNHASRIGRRBYRABSIP3HGH5U4A.jpg?quality=80&smart=true&auth=8ca338e5ad5cd91475408573c3f96bace4954703b31efad3a090ddfb2e994fed&width=1023&height=682" group-title="▶️ INFANTILES PREMIUM", CARTOONITO HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120296.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwkFUAjpwtjZWjwTy-wLQ0slkpHSWtlhaG7QHGFx6RA&s=10" group-title="▶️ INFANTILES PREMIUM", CARTOON NETWORK HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120284.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtwkFUAjpwtjZWjwTy-wLQ0slkpHSWtlhaG7QHGFx6RA&s=10" group-title="▶️ INFANTILES PREMIUM", CARTOON NETWORK SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120283.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUevMRAMTJByKEUY4Ee_lh0t125L3P0kTU-MFThkptw&s=10" group-title="▶️ INFANTILES PREMIUM", DISCOVERY KIDS SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120285.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUevMRAMTJByKEUY4Ee_lh0t125L3P0kTU-MFThkptw&s=10" group-title="▶️ INFANTILES PREMIUM", DISCOVERY KIDS sd
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120286.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="▶️ INFANTILES PREMIUM", DISNEY CHANNEL SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120287.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiQsPLSW-eHeN-6VltPa5wcFcfRz0r-vtXqp4XPpwgg&s=10" group-title="▶️ INFANTILES PREMIUM", DISNEY JR HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120289.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqTFtE2v4WXthlF2gnXsrzjpOZgVIme1g-56KcNcZzg&s=10" group-title="▶️ INFANTILES PREMIUM", NICK JR HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120277.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqTFtE2v4WXthlF2gnXsrzjpOZgVIme1g-56KcNcZzg&s=10" group-title="▶️ INFANTILES PREMIUM", NICK JR .
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120278.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUBPeUkRHs8DbJNfkXx1ABFLw3QxVzdqc3qcAVM0GnQ&s=10wbkPrszh0QM&gs_ssp=eJzj4tTP1TcwNDHLLTNg9OLOy0zOTs3JT0nNzwMAVJEHng&oq=nicke&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciBW5pY2tlKgIIADINEC4YgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBUiBHFDoCljiEnABeACQAQCYAZkDoAHLBaoBBzAuMi40LTG4AQHIAQD4AQGYAgSgAqwGwgIHECMYJxjJAsICEBAuGIAEGLEDGEMYgwEYigXCAgoQLhiABBhDGIoFmAMAiAYBkgcHMS4yLjQtMaAHmRiyBwcwLjIuNC0xuAeVBsIHBTMtMi4yyAdS&sclient=mobile-gws-wiz-img#sv=CAMS9QQa1QQKhwIKuQEStgEKd0FMa3RfdkVGYkJHMjdFRjVSbEdkMnhvT2hxNWRhNUlodDB0dU5Tem5kZndzUnZTa1VYeWJZRGtVa3ZQNTdTOHkyNEFOTVFrdkxDcUtLTUVadHJLY1FjeHVmbjZkRDRhd3c4MmVvcjFGTXFvcDNpRmdtY0NldVlVEhdaQVhLYU9QSUtmQ1p3YmtQbDZyMndBMBoiQUZNQUdHcWYxSWJuSWtVcVpBYVNpMTkzc2dTV2dOcVl0ZxIDODQ5GgEzIhAKAXESC25pY2tlbG9kZW9uIgcKA3RicxIAIiYKBGVxbGQSHkNnSUlBQkFBT2dRSUFCQUFWWVRxQ3o5dDQ0ZzZQZxK2AgrPARLMAQqMAUFMa3RfdkdEalBmRFB6bEU4dnRkTjFOOGFlZXJ1M3NwdXhjYWdOcUFvZEJYNEJWWUlQbE9mTTlacDJRTHA4TnExa0xDd1d0ZWVPTTZKZUJkYUl1c1h1SERSM0hUdmdOWlEyTGNrN0JnakYzMndXUlpIZVJhNm1WdXZTWktpWVNPTEhKUmdQZnNfd3RkEhdaQVhLYU9QSUtmQ1p3YmtQbDZyMndBMBoiQUZNQUdHcXFLeEdqaGZWbHJEbDhfcVJpQWQ3aHN5MmI2URIENDY5OBoBMyIYCgZpbWdkaWkSDk1tWmpReDRBOU1tNjdNIhcKBWRvY2lkEg4zd2NBRzU2Z1FpTUNuTSImCgRlcWxkEh5DZ0lJQUJBQU9nUUlBQkFBVllUcUN6OXQ0NGc2UGcqEGUtTW1aalF4NEE5TW02N00gBCoXCgFzEhBlLU1tWmpReDRBOU1tNjdNGAEwARgHIIrsoYUKMAFKCggCEAIYAiACKAI" group-title="▶️ INFANTILES PREMIUM", NICKELODEON
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120293.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZvRnDDRJRHWQXg_uhGb_TbphfKUZKyme_889BGWCUA&s=10" group-title="▶️ INFANTILES PREMIUM", TOONCAST
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120275.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOrO8M-ovIV7Qk38lJnTSfHXKC8JNE5Jg1DbUVgM9cQ&s=10" group-title="▶️ INFANTILES PREMIUM", Boomerang
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120297.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="✅ 24/7 PREMIUM ⭐", 24/7 Alerta Aeropuerto
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124252.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/9418bfe18b15ebf584045471209574be.jpg" group-title="✅ 24/7 PREMIUM ⭐", Chespirito T3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/126500.ts
+
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/0853fa2076788b893a65d1d0d519fff7.png" group-title="✅ 24/7 PREMIUM ⭐", 24/7 ll EL CHAVO DEL OCHO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/126485.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTe5ksCmhH8ApEBDQlYPVUL4K3m6QsIZizlw&usqp=CAU" group-title="✅ 24/7 PREMIUM ⭐", Naruto
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/124249.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/daea1a007ed18a34901f1ea896238fc3.png" group-title="✅ 24/7 PREMIUM ⭐", 24/7 FUTURAMA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/126518.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="✅ 24/7 PREMIUM ⭐", 24/7 LOS SIMPSONS HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/126495.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA", ARG I T&C SPORTS SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120636.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA", ARG I T&C SPORTS  HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120635.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="▶️ DEPORTES ARGENTINA", ARG | FOX SPORTS 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120634.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="▶️ DEPORTES ARGENTINA", ARG | FOX SPORTS 3 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120632.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA", ARG | TyC Sports HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/106104.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA", ARG | TYC Sports SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/129438.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA", ARG | TNT SPORTS HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120637.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA", ARG | ESPN PREMIUM
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/120639.ts
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="▶️ DEPORTES BOLIVIA", Entel TV (1080p)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261257.ts
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="▶️ DEPORTES BOLIVIA", Entel TV (720p)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261260.ts
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gdqaxq-DATtQIpCg0s8tWXznCOajAvfZTS-U9jLnQkC-nacL7Mj10mPfWkuBrnwQBYE" group-title="▶️ DEPORTES BOLIVIA", Entel TV (480p)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261261.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-ODtElyrjsmulFyPqN9PhPc3MBJmUpijw&s" group-title="▶️ DEPORTES BOLIVIA", Futbol Canal - op2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261258.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="▶️ DEPORTES BOLIVIA", Tigo Sports 1 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261259.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="▶️ DEPORTES BOLIVIA", TIGO SPORTS. HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261262.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="▶️ DEPORTES BOLIVIA", Tigo Sports 3 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/261263.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="▶️ DEPORTE CHILE", ⚽ ▶️ TNT/ SPORTS PREM HD 1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145154.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="▶️ DEPORTE CHILE", ⚽ ▶️ TNT/ SPORTS  ⚽ 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145161.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="▶️ DEPORTE CHILE", CL | ESPN
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145168.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTunpc9l-lR41jZa5dBNNhTkXQsQOyeEDnw&s" group-title="▶️ DEPORTE CHILE", CL | FOX SPORT CHILE
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145165.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="▶️ DEPORTE CHILE", CL | FOX SPORTS 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145166.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="▶️ DEPORTE CHILE", CL | FOX SPORTS 3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145167.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="▶️ DEPORTE CHILE", ⚽ CDO BASICO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145162.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="▶️ DEPORTE CHILE", ⚽ CDO 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145163.ts
+
+#EXTINF:-1 tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="▶️ DEPORTE CHILE", CHI | TELETRACK SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/145186.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F45ZyVu.jpeg" group-title="▶️ DEPORTES COSTA RICA", CR | TD+ SD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176618.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dG0ferl.png" group-title="▶️ DEPORTES COSTA RICA", CR | TD+2 SD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/270074.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dG0ferl.png" group-title="▶️ DEPORTES COSTA RICA", CR | TD+2 HD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176623.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUh8Q9s.png" group-title="▶️ DEPORTES COSTA RICA", CR | TIGO SPORT SD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176625.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUh8Q9s.png" group-title="▶️ DEPORTES COSTA RICA", CR | TIGO SPORT HD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176620.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaPODgP.jpeg" group-title="▶️ DEPORTES COSTA RICA", CR | FUTV (MOVIL)⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176619.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaPODgP.jpeg" group-title="▶️ DEPORTES COSTA RICA", CR | FUTV  SD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176621.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaPODgP.jpeg" group-title="▶️ DEPORTES COSTA RICA", CR | FUTV HD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176626.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaPODgP.jpeg" group-title="▶️ DEPORTES COSTA RICA", CR | FUTV FHD⭐
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/176624.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", 03 | za⚽pping opc3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267304.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", 04 | za⚽pping opc4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267305.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", 01 | za⚽pping opc1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267302.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", EC | ECDF opc2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267295.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", EC | ECDF opc3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267296.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", EC | ECDF OPC4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267297.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", ⚽ ECDF 2 ✅ HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267306.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", EC l D$PORTS EC HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267308.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq093hRC/file-000000006d70720e8856c1a67c2fe52b.png" group-title="▶️ DEPORTE ECUADOR", EC l D$PORTS EC SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/267309.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" group-title="▶️ DEPORTES ESPAÑA", LA LIGA M
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/99051.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="▶️ DEPORTES ESPAÑA", Movistar | La Liga
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/97154.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/ce8144168b7ff5e144d1f418e256568a.png" group-title="▶️ DEPORTES ESPAÑA", Teledportes
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/97153.ts
+
+#EXTINF:-1 tvg-logo="http://flx.lat:8080/images/6054d7deb6aa862bc61b2de35c665cc3.png" group-title="▶️ DEPORTES ESPAÑA", DAZN 4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/99045.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="▶️ DEPORTES ESPAÑA", 43 LIBRE DAZN LA LIGA1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/97152.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%DA%86%D8%A7%D9%85%D9%BE%DB%8C%DB%86%D9%86%D8%B2%D9%84%DB%8C%DA%AF.png/640px-%DA%86%D8%A7%D9%85%D9%BE%DB%8C%DB%86%D9%86%D8%B2%D9%84%DB%8C%DA%AF.png" group-title="▶️ DEPORTES ESPAÑA", LIGA DE CAMPEONES 1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/99056.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%DA%86%D8%A7%D9%85%D9%BE%DB%8C%DB%86%D9%86%D8%B2%D9%84%DB%8C%DA%AF.png/640px-%DA%86%D8%A7%D9%85%D9%BE%DB%8C%DB%86%D9%86%D8%B2%D9%84%DB%8C%DA%AF.png" group-title="▶️ DEPORTES ESPAÑA", LIGA DE CAMPEONES 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/99054.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE | L1G4 1⚽ ( PERU ) HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/133711.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE | L1G4 1⚽ ( PERU ) SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/133712.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE | L1G4 1 M4X⚽ SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/133710.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE | L1G4 1 M4X⚽ HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/133709.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| G⚽L P3RU SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/133714.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 1 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155225.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 2 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155226.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 2 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155227.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 3 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155229.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 4 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155230.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| E$PN 4 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155231.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 5 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155232.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 5 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155233.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 6 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155234.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 6 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155235.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 7 HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155236.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| ESPN 7 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155237.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| D$PORTS 1 SD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155239.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxSzRVTV/file-000000006dbc720c9d2fb8c2985b6c84.png" group-title="▶️ DEPORTES PERU", PE| D$PORTS + HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/155242.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="▶️ | UNIVISION", UNIVERSO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/338711.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION  TEXAS HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263239.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION DALLAS TX HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263249.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION PHOENIX HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263253.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION WEST
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263258.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION NEW YORK HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263245.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION EAST
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263247.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION LOS ANGELES HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263240.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION SAN ANTONIO HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263246.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION PUERTO RICO
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263238.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION SAN FRANCISCO HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263256.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263259.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION MIAMI HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263241.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION CHICAGO HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263243.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION HOUSTON HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263244.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION ATLANTA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263248.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjKDbKNJ/414-KGf-Wa-Fb-L.png" group-title="▶️ | UNIVISION", UNIVISION PHILADELPHIA HD
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/263252.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ2MT78V/unnamed_(10).png" group-title="▶️ TELEMUNDO PREMIUM", USL: TELEMUNDO NEW YORK
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/324013.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ2MT78V/unnamed_(10).png" group-title="▶️ TELEMUNDO PREMIUM", USL: TELEMUNDO TAMPA(WRMD)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/324011.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ2MT78V/unnamed_(10).png" group-title="▶️ TELEMUNDO PREMIUM", USL: TELEMUNDO SACRAMENTO(KCSO)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/324007.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ2MT78V/unnamed_(10).png" group-title="▶️ TELEMUNDO PREMIUM", USL: TELEMUNDO BOSTON(WNEU)
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/323990.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="▶️ | CNN NOTICIAS", CL | CNN OPC 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/223045.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="⭐ REALITYS", TV Realitys-CAMARA 1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443644.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="⭐ REALITYS", TV Realitys-CAMARA 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443645.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfusls26.png" group-title="⭐ REALITYS", TV Realitys-CAMARA 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443649.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-PRINCIPAL
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443650.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-CUARTO CALMA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443651.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-CUARTO TORMENTA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443652.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-SALA
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443653.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-BEAUTY
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443654.ts
+
+#EXTINF:-1 tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfcol26.png" group-title="⭐ REALITYS", TV Realitys-BAñOS
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/443655.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wV0wTLD/file_00000000722071f5b30736ffa1f810a4.png" group-title="▶️ DEPORTE COLOMBIA", CO | ESPN 3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451337.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wV0wTLD/file_00000000722071f5b30736ffa1f810a4.png" group-title="▶️ DEPORTE COLOMBIA", CO | ESPN 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451339.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT Opc 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451341.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT Opc 3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451342.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3Hk2DH/file_000000006f4471f5b621ebe4872c9a84.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT Opc 4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451343.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT + Opc 2
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451346.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT + Opc 3
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451347.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT + Opc 4
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451348.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZwp71Mv/file-00000000f8b071f58288c23856f62e28.png" group-title="▶️ DEPORTE COLOMBIA", WIN SPORT + Opc 5
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451349.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZFkLCwJ/file-00000000d1c8720ebfe4d41f30b3ccc3.png" group-title="▶️ DEPORTE COLOMBIA", CO |  EVENTOS COLOMBIA OPC 1
+http://tv.plctv.xyz:8080//live/CarlosRiosecoCR/CymrQqH3bte5/451350.ts
+
